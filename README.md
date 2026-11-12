@@ -3,8 +3,6 @@
 I'm **Anir El Haddaj** (aka **Rocky**).  
 I'm a **15 y/o** indie developer from **Morocco**, and I build...
 
----
-
 ## Cool projects... maybe 
 
 Here's what I've been working on:
@@ -13,7 +11,6 @@ Here's what I've been working on:
 - **Rocky**: A hand-drawn 2D indie precision platformer about a rabbit taking on corrupt politicians. Currently being rewritten from the ground up for better performance and mechanics. [Play the Chapter 1 Demo on itch.io!](https://comical-games.itch.io/rocky-chapter-1)
 - **ZBlock (R.I.P.)**: An experimental system-wide hosts ad-blocker. It was hardcoded and slow and I decided to execute it for being slow/unstable. (Archived) [View the archive.. if you'd like to. (Which I wonder why you'd check that out)](https://github.com/ComicalSoftwares/ZBlock)
 
----
 
 ## My Tech Stack 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
