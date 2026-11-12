@@ -1,17 +1,11 @@
-# Hi there! 👋
+# Hi there! 
 
 I'm **Anir El Haddaj** (aka **Rocky**).  
 I'm a **15 y/o** indie developer from **Morocco**, and I build...
 
-<!-- GitHub Dynamic Stats -->
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ComicalSoftwares&show_icons=true&theme=tokyonight&hide_border=true" alt="My Github Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ComicalSoftwares&layout=compact&theme=tokyonight&hide_border=true" alt="My Top Languages" height="150" />
-</p>
-
 ---
 
-## Cool projects... maybe 🚀
+## Cool projects... maybe 
 
 Here's what I've been working on:
 
@@ -21,9 +15,7 @@ Here's what I've been working on:
 
 ---
 
-## My Tech Stack 🛠️
-
-<!-- Dynamic Shields.io Badges -->
+## My Tech Stack 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Fedora](https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white)
 ![Godot Engine](https://img.shields.io/badge/Godot_Engine-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)
